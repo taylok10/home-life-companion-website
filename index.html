@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8" />
+        <title id="pageTitle">Home Life Companion</title>
+        <link rel="icon" href="resources/logo.ico">
+        <link rel="stylesheet" type="text/css" href="styles/palette.css">
+        <link rel="stylesheet" type="text/css" href="styles/main.css">
+        <link rel="stylesheet" type="text/css" href="styles/index.css">
+    </head>
+
+    <body>
+        <div class="header">
+            <img src="resources/logo.svg" class="header_logo">
+            <h1 class="header_title">The Home Life Companion</h1>
+
+            <div class="navbar">
+                <a href="index.html" class="navbar_item">
+                    <p style="font-size: 22px;">☗</p>
+                    <p>Home</p>
+                </a>
+                <hr class="accent_horizontalRule"/>
+            </div>
+        </div>
+            <div class="header2">
+                <h2 class="subheader_title">Your motivation will never be the same again</h2>
+                <hr class="accent_horizontalRule"/>
+            </div>
+            <div class="quotes">
+                <p class="quote_primary"><span class="quote_accent">“</span>Are you struggling to work from home?<span class="quote_accent">”</span>...</p>
+                <p class="quote_secondary">...<span class="quote_accent">“</span>Do you find it hard to get motivated?<span class="quote_accent">”</span>...</p>
+                <p class="quote_tertiary">...<span class="quote_accent">“</span>Maybe you’re just bored?<span class="quote_accent">”</span></p>
+            </div>
+            <video class="video" width="100%" controls>
+                <source src="resources/pitch.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="overview">
+                <p class="overview_header">Well, do we have the app for you!</p>
+                <p class="overview_content">
+                    The Home Life Companion from stay at home because there’s a pandemic limited is the only thing you’ll need to put routine back into your… routine!
+                    <br/><br/>
+                    The app has a built in reminder and gentle alarm system to remind you when to take a break, when to get working, and when to actually stop working because we know some of you can’t stop!
+                    <br/><br/>
+                    Now what happens if you’re bored you ask? Our app will have daily challenges. You want crossword puzzles? You got it!
+                    You want challenges for language learning, exercising and cooking! You got it!                            
+                </p>
+            </div>
+            <div class="signup">
+                <label class="signup_description">
+                    Interested? Sign up below so that we can let you know when it's available:
+                </label>
+                <div class="signup_field">
+                    <input id="emailInput" class="signup_input" type="email" placeholder="Please enter your email..."><button class="button" onclick="signup(document.getElementById(emailInput))" type="submit">Submit</button>
+                </div>
+            </div>
+            <script src="scripts/index.js"></script>
+    </body>
+</html>

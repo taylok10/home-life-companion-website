@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #006fa3;
+    --accent-color: #a38800;
+    --action-color: #e84d00;
+
+    --light-text-color: #e6e6e6;
+    --dark-text-color: #383838;
+    --header-text-color: var(--primary-color);
+
+    --normal-spacing: 12px;
+}
