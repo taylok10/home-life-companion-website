@@ -30,6 +30,10 @@ body {
     margin: var(--normal-spacing);
 }
 
+.quotes p, .quotes p span {
+	text-shadow: 1px 1px var(--dark-text-color);
+}
+
 .quote_accent {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: var(--accent-color);
@@ -38,7 +42,7 @@ body {
 .quote_primary {
     font-size: 26px;
     width: 90%;
-    padding: 5%;
+    padding: 2% 5%;
 }
 
 .quote_primary .quote_accent {
@@ -75,6 +79,7 @@ body {
     text-align: center;
     font-size: 22px;
     padding: var(--normal-spacing);
+    text-shadow: 1px 1px var(--dark-text-color);
 }
 
 .overview_content{
