@@ -19,7 +19,10 @@ body {
     background-color: var(--primary-color);
     padding: var(--normal-spacing);
 }
-.video { grid-area: 3 / 2 / 4 / 3; }
+.video { 
+	grid-area: 3 / 2 / 4 / 3;
+	background-color: var(--primary-color);
+}
 .overview { 
     grid-area: 3 / 3 / 4 / 4; 
     background-color: var(--primary-color);
