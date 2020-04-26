@@ -68,7 +68,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0 var(--normal-spacing) 6px var(--normal-spacing);
     font-size: 16px;
-    font-weight: normal;
+    font-weight: 300;
     display: inline-block;
     font-style: normal;
     text-decoration: none;
