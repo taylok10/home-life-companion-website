@@ -9,3 +9,8 @@
 
     --normal-spacing: 12px;
 }
+
+@font-face {
+	font-family: "Poiret One";
+	src: url("..\\resources/fonts/Poiret_One/PoiretOne-Regular.ttf") format("truetype");
+}

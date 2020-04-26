@@ -1,6 +1,7 @@
 body {
     color: var(--light-text-color);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
     margin: 0;
 }
 
@@ -27,15 +28,17 @@ body {
     font-weight: normal;
     vertical-align: middle;
     margin: 0;
+    font-family: 'Poiret One', cursive;
 }
 
 .subheader_title 
 {
     color: var(--header-text-color);
     font-size: 36px;
-    font-weight: normal;
     text-align: center;
     margin: var(--normal-spacing) 40px;
+    font-family: 'Poiret One', cursive;
+    font-weight: normal;
 }
 
 .button {
