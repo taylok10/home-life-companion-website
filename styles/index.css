@@ -22,6 +22,7 @@ body {
 .video { 
 	grid-area: 3 / 2 / 4 / 3;
 	background-color: var(--primary-color);
+	display: grid;
 }
 .overview { 
     grid-area: 3 / 3 / 4 / 4; 
@@ -31,6 +32,12 @@ body {
 .signup { 
     grid-area: 4 / 1 / 5 / 4;
     margin: var(--normal-spacing);
+}
+
+.video video {
+	width: 100%;
+	display: block;
+	margin: auto;
 }
 
 .quotes p, .quotes p span {
