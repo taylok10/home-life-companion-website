@@ -87,6 +87,7 @@ body {
     text-align: center;
     font-size: 16px;
     padding: var(--normal-spacing);
+    text-shadow: 1px 1px var(--dark-text-color);
 }
 
 .signup_description {

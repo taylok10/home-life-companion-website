@@ -49,6 +49,11 @@ body {
     width: 135px;
 }
 
+.link {
+	color: var(--light-text-color);
+	text-shadow: none;
+}
+
 .navbar {
     float: right;
     margin: 0;
