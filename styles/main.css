@@ -55,6 +55,7 @@ body {
 .link {
 	color: var(--light-text-color);
 	text-shadow: none;
+	text-shadow: 1px 1px var(--dark-text-color);
 }
 
 .navbar {
