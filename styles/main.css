@@ -79,8 +79,9 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-	.header_title 
-	{
-	    font-size: 6vw;
+	.header_title {
+	    font-size: 4.5vw;
+	    display: inline-block;
+	    width: 50%;
 	}
 }
