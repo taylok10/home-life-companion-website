@@ -68,7 +68,7 @@ body {
 	text-align: end;
 }
 
-@media screen and (orientation: portrait) {
+@media screen and (max-width: 600px) {
 	body {
 		display: grid;
 		grid-template-columns: 1fr;
