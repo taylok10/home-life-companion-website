@@ -56,8 +56,9 @@ body {
 }
 
 .previewImage {
-	max-width:48%;
+	max-width:48.5%;
 	height:auto;
+	margin: 0.5%;
 }
 
 .overview_header {
@@ -105,7 +106,8 @@ body {
 	}
 
 	.previewImage {
-		max-width:90%;
+		max-width:100%;
 		height:auto;
+		margin: 10px 0;
 	}	
 }
