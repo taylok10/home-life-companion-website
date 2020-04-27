@@ -68,6 +68,10 @@ body {
 	text-align: end;
 }
 
+#audienceContent {
+	text-align: end;
+}
+
 @media screen and (max-width: 600px) {
 	body {
 		display: grid;
@@ -93,6 +97,10 @@ body {
 	}
 	
 	#audienceHeader {
+		text-align: center;
+	}
+	
+	#audienceContent {
 		text-align: center;
 	}
 
