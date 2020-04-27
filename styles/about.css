@@ -60,7 +60,15 @@ body {
 	height:auto;
 }
 
-@media screen and (max-width: 600px) {
+.overview_header {
+	text-align: start;
+}
+
+#audienceHeader {
+	text-align: end;
+}
+
+@media screen and (max-width: 900px) {
 	body {
 		display: grid;
 		grid-template-columns: 1fr;
@@ -75,6 +83,18 @@ body {
 	.vision { grid-area: 4 / 1 / 5 / 2; }
 	.audience { grid-area: 5 / 1 / 6 / 2; }
 	.showcase { grid-area: 6 / 1 / 7 / 2; }
+	
+	.overview_header {
+		text-align: center;
+	}
+	
+	.overview_content {
+	    text-align: center;
+	}
+	
+	#audienceHeader {
+		text-align: center;
+	}
 
 	.previewImage {
 		max-width:90%;
