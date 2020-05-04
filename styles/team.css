@@ -156,9 +156,13 @@ body {
 	
 	/* move to main.css once happy */
 	.navbar {
-	    width: max-content;
-	    float: right;
+	    width: 100%;
+	    float: none;
 	    color: var(--dark-text-color);
+	}
+	
+	.navbar_item img {
+		margin: 0;
 	}
 	
 	.header_title {
@@ -176,6 +180,14 @@ body {
 	.accent_horizontalRule--mobile {
 		display: block;
 	}
+}
+
+.navbar{
+	text-align-last: center;
+}
+
+.navbar img {
+	width: 18px;
 }
 
 	.accent_horizontalRule--desktop {
