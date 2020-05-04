@@ -12,10 +12,6 @@ body {
     background-color: var(--accent-color);
 }
 
-	.accent_horizontalRule--thick {
-		height: 2px;
-	}
-
 .header_logo 
 {
     height: 56px;
