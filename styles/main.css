@@ -5,13 +5,16 @@ body {
     margin: 0;
 }
 
-.accent_horizontalRule
-{
+.accent_horizontalRule {
     height: 1px;
     border: 0;
     color: var(--accent-color); /* old IE */
     background-color: var(--accent-color);
 }
+
+	.accent_horizontalRule--thick {
+		height: 2px;
+	}
 
 .header_logo 
 {
