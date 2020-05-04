@@ -143,4 +143,9 @@ body {
 	.team_content {
 	    text-align: center;
 	}
+	
+	.team_image {
+	    display: block;
+	    margin: auto;
+	}
 }
