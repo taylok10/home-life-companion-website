@@ -147,5 +147,6 @@ body {
 	.team_image {
 	    display: block;
 	    margin: auto;
+	    float: none;
 	}
 }
