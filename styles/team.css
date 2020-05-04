@@ -149,4 +149,39 @@ body {
 	    margin: auto;
 	    float: none;
 	}
+	
+	
+	
+	
+	
+	/* move to main.css once happy */
+	.navbar {
+	    width: max-content;
+	    float: right;
+	    color: var(--dark-text-color);
+	}
+	
+	.header_title {
+		width: auto;
+	}
+	
+	.header_logo {
+		margin: 12px;
+	}
+	
+	.accent_horizontalRule--desktop {
+		display: none;
+	}
+	
+	.accent_horizontalRule--mobile {
+		display: block;
+	}
 }
+
+	.accent_horizontalRule--desktop {
+		display: block;
+	}
+	
+	.accent_horizontalRule--mobile {
+		display: none;
+	}
