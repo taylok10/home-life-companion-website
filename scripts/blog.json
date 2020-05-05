@@ -6,7 +6,7 @@ var blogJson = [{
 			{
 				"author": "Kelly",
 				"date": "26/04/2020",
-				"content": "After lots of hard word the prototype was completed today! Shout out to Ben White for all his help bringing this together, please check out our demo video:"
+				"content": "After lots of hard work the prototype was completed today! Shout out to Ben White for all his help bringing this together, please check out our demo video:"
 						   + "<br/><br/>"
 						   + "<div>"
 								+ "<video style='max-width: 900px; width: 100%;' controls>"
