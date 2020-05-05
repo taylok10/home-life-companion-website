@@ -33,6 +33,11 @@ body {
 	grid-area: 4 / 1 / 5 / 3; 
 }
 
+.blog_navigation {
+	grid-area: 4 / 3 / 5 / 4;
+	background-color: hotpink;
+}
+
 .blog_post {
 	background-color: var(--primary-color);
 	padding: var(--normal-spacing);
@@ -88,6 +93,9 @@ body {
 	.introduction { grid-area: 3 / 1 / 4 / 2; }
 	.blog { grid-area: grid-area: 4 / 1 / 5 / 2; }
 	
+	.blog_navigation {
+		display: none;
+	}
 	
 	
 	

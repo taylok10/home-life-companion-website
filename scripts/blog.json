@@ -16,6 +16,41 @@ var blogJson = [{
             				+ "</div>"
 			},
 			{
+				"author": "Jaymz",
+				"date": "28/04/2020",
+				"content": `This week has been going well from an all-round standpoint. We are collaborating more and more, making the most of the lockdown-ensured distancing by utilising WhatsApp and Microsoft Teams to
+							pursue our work in a timely manner. As a team, we managed to produce our solution design
+							document, outlining our requirements for the application at hand and setting in stone what we
+							expect the application to look like at the end of development.
+							<br/><br/>
+							The development team have been working hard on the Hack and MVP, producing our first demo for
+							the client which includes all the major functionality. We are pleased with the login functionality,
+							alarms, and challenges within the app.
+							<br/><br/>
+							Of course, it's not been an easy ride, with issues around finding time along-side other pressing work
+							and trying to keep a balance of work and play, but also, what really is easy given the current climate
+							of social distancing with relation to the Coronavirus.
+							<br/><br/>
+							We are hoping more and more that the application can be delivered sooner rather than later due to
+							all of us needing some sort of normality and routine. It's not just delivering it for the general public,
+							we would also find it useful to have the application to keep us on track.
+							<br/><br/>
+							Our software quality document was also produced this week, which was another large undertaking.
+							It seems as if we are already working towards quality software and teamwork which is the main goal
+							of producing it, and probably why we found it so easy to produce. Olivia has a lovely design of spider
+							diagrams which make the documents pop, along side Rob's detailed write ups that help to guide us
+							on where to focus our efforts.
+							<br/><br/>
+							We're hoping to continue the way we have been working, keeping high spirits, and working towards
+							our milestones quickly and efficiently. With bi (sometimes tri) weekly meetings, and maintaining our
+							scrum methodology, we believe that our chances of success are heightened, and things should be
+							relatively plain sailing from here until deadline.
+							<br/><br/>
+							That's all for this week, and regular updates should flow from here on out.
+							<br/><br/>
+							Thanks for reading!`
+			},
+			{
 				"author": "Kelly",
 				"date": "05/05/2020",
 				"content": "Small changes hopefully making big impacts, hope you all like the new navbar look that just went live on the website :)"
