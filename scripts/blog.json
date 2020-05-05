@@ -1,0 +1,22 @@
+var blogJson = [{
+				"author": "Kelly",
+				"date": "14/04/2020",
+				"content": "Our website is now live! Please stay tuned for plenty of updates regarding the progress of the Home Life Companion! We're looking forward to sharing our progress with you."
+			},
+			{
+				"author": "Kelly",
+				"date": "26/04/2020",
+				"content": "After lots of hard word the prototype was completed today! Shout out to Ben White for all his help bringing this together, please check out our demo video:"
+						   + "<br/><br/>"
+						   + "<div>"
+								+ "<video style='max-width: 900px; width: 100%;' controls>"
+	                				+ '<source src="resources/blog/demo.mp4" type="video/mp4">'
+	                				+ "Your browser does not support the video tag."
+                				+ "</video>"
+            				+ "</div>"
+			},
+			{
+				"author": "Kelly",
+				"date": "05/05/2020",
+				"content": "Small changes hopefully making big impacts, hope you all like the new navbar look that just went live on the website :)"
+			}];
