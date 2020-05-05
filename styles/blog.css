@@ -35,7 +35,20 @@ body {
 
 .blog_navigation {
 	grid-area: 4 / 3 / 5 / 4;
-	background-color: hotpink;
+}
+
+.blog_button {
+	background-color: var(--action-color);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    cursor: pointer;
+    color: var(--dark-text-color);
+    padding: var(--normal-spacing);
+    border: none;
+    font-size: 22px;
+    width: 90%;
+    float: right;
+   	margin: 12px 0;
 }
 
 .blog_post {
