@@ -96,6 +96,10 @@ body {
     	margin: 12px;
 	}
 	
+	.subheader_title {
+		margin: var(--normal-spacing) 40px 32px 40px;
+	}
+	
 	.navbar {
 	    width: 100%;
 	    float: none;
