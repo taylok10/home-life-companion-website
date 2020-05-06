@@ -52,6 +52,6 @@ var blogJson = [{
 			},
 			{
 				"author": "Kelly",
-				"date": "05/05/2020",
+				"date": "06/05/2020",
 				"content": "Small changes hopefully making big impacts, hope you all like the new navbar look that just went live on the website :)"
 			}];
