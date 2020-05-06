@@ -59,6 +59,7 @@ body {
     float: right;
     margin: 0;
     color: var(--dark-text-color);
+    text-align-last: center;
 }
 
 .navbar_item {
@@ -72,23 +73,49 @@ body {
     color: var(--dark-text-color);
 }
 
-.navbar_item p {
-    text-align: center;
-    margin: 0;
-}
+	.navbar_item img {
+		width: 18px;
+	}
+	
+	.navbar_item p {
+	    text-align: center;
+	    margin: 0;
+	}
 
 @media screen and (max-width: 600px) {
 	.header_title {
 	    font-size: 4.5vw;
 	    display: inline-block;
-	    width: 40%;
+	    width: auto;
 	}
-	
-	
 	
 	.header_logo 
 	{
     	height: 10%;
     	width: 10%;
+    	margin: 12px;
+	}
+	
+	.navbar {
+	    width: 100%;
+	    float: none;
+	    color: var(--dark-text-color);
+	}
+	
+	.navbar_item {
+		padding: 3%;
+		margin: 0;
+	}
+
+		.navbar_item img {
+			margin: 0;
+		}
+
+	.accent_horizontalRule--desktop {
+		display: none;
+	}
+	
+	.accent_horizontalRule--mobile {
+		display: block;
 	}
 }
