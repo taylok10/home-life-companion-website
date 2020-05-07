@@ -62,7 +62,7 @@ var blogJson = [{
 				 		finalising documents before submitting them to the tutors. My main focus was on the software quality document, which included
 				  		creating an initial draft of the report and coming up with an idea of how the report should be structured. Once this was complete
 				   		we then looked over as a team and finalised/amended the document appropriately (as well as Olivia kindly drawing up the diagrams 
-				   		neatly). We often take tasks as individuals and complete an ‘initial’ draft and that way we can come back collectively in our 
+				   		neatly). We often take tasks as individuals and complete an initial draft and that way we can come back collectively in our 
 				   		team meetings and finalise everything before submission.
 						<br/><br/>
 						The plan of action for this week is to continue writing up blog posts and finalising the website as well as the MVP which will be
@@ -81,3 +81,4 @@ var blogJson = [{
 						type. Soon this new prototype version of the product will be available for download from the website for you to use. Stay tuned for 
 						further updates!"
 			}];
+			
