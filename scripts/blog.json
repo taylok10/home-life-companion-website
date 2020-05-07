@@ -1,19 +1,19 @@
 var blogJson = [{
 				"author": "Kelly",
 				"date": "14/04/2020",
-				"content": "Our website is now live! Please stay tuned for plenty of updates regarding the progress of the Home Life Companion! We're looking forward to sharing our progress with you."
+				"content": `Our website is now live! Please stay tuned for plenty of updates regarding the progress of the Home Life Companion! We're looking forward to sharing our progress with you.`
 			},
 			{
 				"author": "Kelly",
 				"date": "26/04/2020",
-				"content": "After lots of hard work the prototype was completed today! Shout out to Ben White for all his help bringing this together, please check out our demo video:"
-						   + "<br/><br/>"
-						   + "<div>"
-								+ "<video style='max-width: 900px; width: 100%;' controls>"
-	                				+ '<source src="resources/blog/demo.mp4" type="video/mp4">'
-	                				+ "Your browser does not support the video tag."
-                				+ "</video>"
-            				+ "</div>"
+				"content": `After lots of hard work the prototype was completed today! Shout out to Ben White for all his help bringing this together, please check out our demo video:
+						   	<br/><br/>
+						   		<div>
+									<video style='max-width: 900px; width: 100%;' controls>
+	                					<source src="resources/blog/demo.mp4" type="video/mp4">
+	                					Your browser does not support the video tag.
+                					</video>
+            					</div>`
 			},
 			{
 				"author": "Jaymz",
@@ -43,7 +43,7 @@ var blogJson = [{
 							<br/><br/>
 							We're hoping to continue the way we have been working, keeping high spirits, and working towards
 							our milestones quickly and efficiently. With bi (sometimes tri) weekly meetings, and maintaining our
-							scrum methodology, we believe that our chances of success are heightened, and things should be
+							agile methodology, we believe that our chances of success are heightened, and things should be
 							relatively plain sailing from here until deadline.
 							<br/><br/>
 							That's all for this week, and regular updates should flow from here on out.
@@ -53,7 +53,7 @@ var blogJson = [{
 			{
 				"author": "Kelly",
 				"date": "06/05/2020",
-				"content": "Small changes hopefully making big impacts, hope you all like the new navbar look that just went live on the website :)"
+				"content": `Small changes hopefully making big impacts, hope you all like the new navbar look that just went live on the website :)`
 			},
 			{
 				"author": "Rob",
