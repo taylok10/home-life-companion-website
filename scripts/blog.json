@@ -54,4 +54,30 @@ var blogJson = [{
 				"author": "Kelly",
 				"date": "06/05/2020",
 				"content": "Small changes hopefully making big impacts, hope you all like the new navbar look that just went live on the website :)"
+			},
+			{
+				"author": "Rob",
+				"date": "07/05/2020",
+				"content": "The last couple of weeks have been very productive in terms of submissions and engaging as a team to focus on
+				 		finalising documents before submitting them to the tutors. My main focus was on the software quality document, which included
+				  		creating an initial draft of the report and coming up with an idea of how the report should be structured. Once this was complete
+				   		we then looked over as a team and finalised/amended the document appropriately (as well as Olivia kindly drawing up the diagrams 
+				   		neatly). We often take tasks as individuals and complete an ‘initial’ draft and that way we can come back collectively in our 
+				   		team meetings and finalise everything before submission.
+						<br/><br/>
+						The plan of action for this week is to continue writing up blog posts and finalising the website as well as the MVP which will be
+						demonstrated next week to the rest of the cohort. This will mainly be focused on by the developers again, however the rest of the
+						team are assisting where possible. With the continuous meetings which we participate in as a team this makes it a lot easier to 
+						ensure everyone is involved with all submissions, even if it is just a case of adding in some final details, of course every 
+						little helps!
+						<br/><br/>
+						Thanks for taking the time to view - Rob"
+			},
+			{
+				"author": "Ben",
+				"date": "07/05/2020",
+				"content": "Since creating the prototype we have been rebuilding the UI to be less cohesive. This will mean that any further changes 
+						that are needed for an individual change will only affect that particular screen. We are also working on a new interactive challenge 
+						type. Soon this new prototype version of the product will be available for download from the website for you to use. Stay tuned for 
+						further updates!"
 			}];
