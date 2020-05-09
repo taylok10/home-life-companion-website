@@ -80,5 +80,10 @@ var blogJson = [{
 						that are needed for an individual change will only affect that particular screen. We are also working on a new interactive challenge 
 						type. Soon this new prototype version of the product will be available for download from the website for you to use. Stay tuned for 
 						further updates!`
+			},
+			{
+				"author": "Kelly",
+				"date": "09/05/2020",
+				"content": `Pssst... there's a shiny new page all about the team that just went live! You should go <a href="team.html" class="link">check it out!<a/> `
 			}];
 			
