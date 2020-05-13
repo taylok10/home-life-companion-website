@@ -85,5 +85,23 @@ var blogJson = [{
 				"author": "Kelly",
 				"date": "09/05/2020",
 				"content": `Pssst... there's a shiny new page all about the team that just went live! You should go <a href="team.html" class="link">check it out!<a/> `
+			},
+			{
+				"author": "Olivia",
+				"date": "13/05/2020",
+				"content": `As the deadline for the Minimum Viable Product (MVP) to be showcased to our stakeholders has drawn nearer the team have really ramped up the pressure and I couldn’t be more proud! 
+						The weekend before saw one of our developers, Kelly, stricken with illness but this certainly did not stop her working crazy hours and putting in a lot of effort to bring the product up to its potential. 
+						Ben has also been maxing himself out, ensuring that the application is feature-rich and designed with users in mind, by getting creative with some of our challenge pages and perfecting the user sign in/register journey!
+						<br/><br/>
+						At this point, you would expect the pressure to be mounting, however the group has formed a tight enough bond of trust and respect that this isn’t quite happening. 
+						We all seem to be working in harmony; Rob and myself have been fortunate to begin testing the application and ensuring that we present a defect free, high quality product. 
+						Although Jaymz has been focussing more on our other project, his input into design features and larger business decisions has been vitally important.
+						<br/><br/>
+						For us moving forward, past the MVP we have some very exciting features coming up that no doubt both challenge our developers and offer a better user journey to everyone. 
+						As a team, we will no doubt support each other through this time and see it as an opportunity to demonstrate what Stay at home there’s a Pandemic ltd have to offer!
+						<br/><br/>
+						Hope everyone is staying safe, staying alert and looking forward to the future of the Home Life Companion.
+						<br/><br/>
+						All my best`
 			}];
 			
