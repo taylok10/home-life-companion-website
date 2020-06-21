@@ -61,14 +61,14 @@ var blogJson = [{
 				"content": `The last couple of weeks have been very productive in terms of submissions and engaging as a team to focus on
 				 		finalising documents before submitting them to the tutors. My main focus was on the software quality document, which included
 				  		creating an initial draft of the report and coming up with an idea of how the report should be structured. Once this was complete
-				   		we then looked over as a team and finalised/amended the document appropriately (as well as Olivia kindly drawing up the diagrams 
-				   		neatly). We often take tasks as individuals and complete an initial draft and that way we can come back collectively in our 
+				   		we then looked over as a team and finalised/amended the document appropriately (as well as Olivia kindly drawing up the diagrams
+				   		neatly). We often take tasks as individuals and complete an initial draft and that way we can come back collectively in our
 				   		team meetings and finalise everything before submission.
 						<br/><br/>
 						The plan of action for this week is to continue writing up blog posts and finalising the website as well as the MVP which will be
 						demonstrated next week to the rest of the cohort. This will mainly be focused on by the developers again, however the rest of the
-						team are assisting where possible. With the continuous meetings which we participate in as a team this makes it a lot easier to 
-						ensure everyone is involved with all submissions, even if it is just a case of adding in some final details, of course every 
+						team are assisting where possible. With the continuous meetings which we participate in as a team this makes it a lot easier to
+						ensure everyone is involved with all submissions, even if it is just a case of adding in some final details, of course every
 						little helps!
 						<br/><br/>
 						Thanks for taking the time to view`
@@ -76,9 +76,9 @@ var blogJson = [{
 			{
 				"author": "Ben",
 				"date": "07/05/2020",
-				"content": `Since creating the prototype we have been rebuilding the UI to be less cohesive. This will mean that any further changes 
-						that are needed for an individual change will only affect that particular screen. We are also working on a new interactive challenge 
-						type. Soon this new prototype version of the product will be available for download from the website for you to use. Stay tuned for 
+				"content": `Since creating the prototype we have been rebuilding the UI to be less cohesive. This will mean that any further changes
+						that are needed for an individual change will only affect that particular screen. We are also working on a new interactive challenge
+						type. Soon this new prototype version of the product will be available for download from the website for you to use. Stay tuned for
 						further updates!`
 			},
 			{
@@ -89,37 +89,56 @@ var blogJson = [{
 			{
 				"author": "Olivia",
 				"date": "13/05/2020",
-				"content": `As the deadline for the Minimum Viable Product (MVP) to be showcased to our stakeholders has drawn nearer the team have really ramped up the pressure and I couldn't be more proud! 
-						The weekend before saw one of our developers, Kelly, stricken with illness but this certainly did not stop her working crazy hours and putting in a lot of effort to bring the product up to its potential. 
+				"content": `As the deadline for the Minimum Viable Product (MVP) to be showcased to our stakeholders has drawn nearer the team have really ramped up the pressure and I couldn't be more proud!
+						The weekend before saw one of our developers, Kelly, stricken with illness but this certainly did not stop her working crazy hours and putting in a lot of effort to bring the product up to its potential.
 						Ben has also been maxing himself out, ensuring that the application is feature-rich and designed with users in mind, by getting creative with some of our challenge pages and perfecting the user sign in/register journey!
 						<br/><br/>
-						At this point, you would expect the pressure to be mounting, however the group has formed a tight enough bond of trust and respect that this isn't quite happening. 
-						We all seem to be working in harmony; Rob and myself have been fortunate to begin testing the application and ensuring that we present a defect free, high quality product. 
+						At this point, you would expect the pressure to be mounting, however the group has formed a tight enough bond of trust and respect that this isn't quite happening.
+						We all seem to be working in harmony; Rob and myself have been fortunate to begin testing the application and ensuring that we present a defect free, high quality product.
 						Although Jaymz has been focussing more on our other project, his input into design features and larger business decisions has been vitally important.
 						<br/><br/>
-						For us moving forward, past the MVP we have some very exciting features coming up that no doubt both challenge our developers and offer a better user journey to everyone. 
+						For us moving forward, past the MVP we have some very exciting features coming up that no doubt both challenge our developers and offer a better user journey to everyone.
 						As a team, we will no doubt support each other through this time and see it as an opportunity to demonstrate what Stay at home there's a Pandemic ltd have to offer!
 						<br/><br/>
 						Hope everyone is staying safe, staying alert and looking forward to the future of the Home Life Companion.
 						<br/><br/>
 						All my best`
-						
+
 			},
 			{
 				"author": "Olivia",
 				"date": "16/05/2020",
 				"content": `NEWS FLASH!
 						<br/><br/>
-						Having pitched our current designs to our key stakeholders, SAhBTAP ltd are Pivoting! 
+						Having pitched our current designs to our key stakeholders, SAhBTAP ltd are Pivoting!
 						In order to provide the best possible solution to help people across the UK cope with the Pandemic we will be altering the application.
 						<br/><br/>
-						Whilst this may feel like a big step, the team is more dedicated than ever to providing the best user-centric experience we can! 
-						The new direction has led us all to consider what would truly be useful in this strange time. 
-						One of the ideas we are exploring the viability of is creating an interactive and educational application targeted towards primary school children. 
+						Whilst this may feel like a big step, the team is more dedicated than ever to providing the best user-centric experience we can!
+						The new direction has led us all to consider what would truly be useful in this strange time.
+						One of the ideas we are exploring the viability of is creating an interactive and educational application targeted towards primary school children.
 						As we know they are notoriously difficult to keep occupied and are struggling to maintain focus whilst completing school assignments at the moment!
 						<br/><br/>
 						We will obviously be keeping you guys in the loop as always, but for now keep an eye out on our site as we provide you updates and hope you're excited to see what's in store for us!
 						<br/><br/>
-						Let's get pivoting...`		
-			}];
-			
+						Let's get pivoting...`
+			},
+			{
+				"author": "Jaymz",
+				"date": "21/06/2020",
+				"content": 'After Demo News!<br/><br/>
+				Hello Everyone! <br/>
+				The day has been and gone that we had the demonstration to our client of the new application since our PIVOT!
+				We might as well say it, the actual demonstration went without hitch, and the client absolutely LOVED IT!
+				Which means we’re full steam ahead with development. <br/>
+				Things have gone much faster this time around due to a number of factors. We had a graphical mock-up of our design, more teamwork experience and clear set determination.
+				Due to this, we had a lot more to demo that we were initially expecting. Our completed MVP was the brainchild of SaHBTaP,
+				and we’re so proud to have it move into the next stages of development.<br/><br/>
+				The client had a few suggestions on improvement, such as emailing completion certificates to parents which we whole-heartedly back.
+				 We really want parents to get behind this application and engage with their children with it.
+				 After all, serving as a great resource to educate children it’ll be lovely for our parents to be able to follow the progress of their little ones. <br/><br/>
+				Anyway, the final push is here, with a week to go until our development deadline, both sides of the business are working harder than ever
+				to polish everything and get it up to scratch for our release day!
+				<br/><br/>Thank you so much for following our progress and we can’t wait for you to get your hands on our little passion project.
+				From all of us here at Stay at Home Because There’s a Pandemic, stay safe, stay healthy, and we’ll speak to you again all soon.'
+			}
+				}];
